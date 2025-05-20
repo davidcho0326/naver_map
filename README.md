@@ -72,5 +72,5 @@ npm start
 
 이 프로젝트는 네이버 클라우드 플랫폼 API를 사용합니다:
 
-- Client ID: 07gq168p3y
-- Client Secret: ofunz4XdLSqOLnYW0pwKJP3gLaTZOsGhrKjuP1ns 
+- Client ID: 
+- Client Secret: 
